@@ -1,7 +1,7 @@
 import { Toaster } from "@/components/ui/toaster"
 
-import { ToDoList } from "@/components/todos/toDoList";
-import { ToDoListItem } from "@/components/todos/toDoListItem";
+import { ToDoList } from "@/components/todos/ToDoList";
+import { ToDoListItem } from "@/components/todos/ToDoListItem";
 import { AddTask } from "@/components/dialogs/AddTask"
 import { getToDoItems } from "@/lib/firebase/api"
 

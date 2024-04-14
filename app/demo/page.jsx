@@ -21,7 +21,6 @@ async function DemoPage({children}) {
 					))}
 				</ToDoList>
 				<AddTask className="mt-8"/>
-				
 			</main>
 		</>
 	)
